@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "586582377542",
+    "project_id": "sport-equip-mentrental",
+    "storage_bucket": "sport-equip-mentrental.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586582377542:android:48089b272506892cc1b647",
+        "android_client_info": {
+          "package_name": "com.example.sport_equipment_rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzn8P8oTSpodDCtpXDZ8LxN_YUlroCJO0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
